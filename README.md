@@ -66,46 +66,46 @@ Tasks assigned and completed/submitted.
 
 List of AWS cloud tasks covering IAM, VPC, EC2, S3, IAM roles, ALB, ASG, Route 53, Certificate Manager:
 
-1. **IAM (Identity and Access Management)**:
+▶️1. **IAM (Identity and Access Management)**:
    - Create IAM users with appropriate permissions for different roles.
    - Implement IAM policies to control access to AWS services and resources.
    - Configure IAM roles for EC2 instances to securely access other AWS services.
 
-2. **Custom VPC (Virtual Private Cloud)**:
+▶️2. **Custom VPC (Virtual Private Cloud)**:
    - Design and create a custom VPC with defined CIDR blocks and subnets.
    - Configure route tables, internet gateways, and NAT gateways for public and private subnets.
    - Implement network ACLs and security groups to control inbound and outbound traffic.
 
-3. **EC2 (Elastic Compute Cloud)**:
+▶️3. **EC2 (Elastic Compute Cloud)**:
    - Launch EC2 instances with specific instance types, AMIs, and configurations.
    - Configure security groups to control inbound and outbound traffic to EC2 instances.
    - Utilize EC2 instance metadata and user data for dynamic configuration and automation.
 
-4. **S3 (Simple Storage Service)**:
+▶️4. **S3 (Simple Storage Service)**:
    - Create S3 buckets with appropriate access permissions (e.g., public, private, restricted).
    - Configure versioning, encryption, and lifecycle policies for S3 objects.
    - Implement S3 cross-region replication for disaster recovery and data redundancy.
 
-5. **IAM Roles and Instance Profile**:
+▶️5. **IAM Roles and Instance Profile**:
    - Define IAM roles with permissions for specific tasks (e.g., S3 access, EC2 management).
    - Attach IAM roles to EC2 instances using instance profiles for seamless access to other AWS services.
 
-6. **ALB (Application Load Balancer)**:
+▶️6. **ALB (Application Load Balancer)**:
    - Provision an ALB to distribute incoming application traffic across multiple EC2 instances.
    - Configure target groups and health checks to ensure high availability and fault tolerance.
    - Enable features like SSL termination, sticky sessions, and path-based routing as per application requirements.
 
-7. **ASG (Auto Scaling Group)**:
+▶️7. **ASG (Auto Scaling Group)**:
    - Set up an Auto Scaling Group to automatically adjust the number of EC2 instances based on demand.
    - Configure scaling policies based on metrics like CPU utilization, network traffic, or custom CloudWatch metrics.
    - Integrate ASG with ALB for dynamic scaling and load distribution.
 
-8. **Route 53**:
+▶️8. **Route 53**:
    - Manage DNS records and domain names using Route 53.
    - Configure public and private hosted zones for routing traffic to AWS resources.
 
 
-9. **Certificate Manager**:
+▶️9. **Certificate Manager**:
    - Request and manage SSL/TLS certificates using AWS Certificate Manager (ACM).
    - Associate SSL certificates with ALB or CloudFront distributions for secure HTTPS communication.
    
