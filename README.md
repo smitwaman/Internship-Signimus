@@ -43,7 +43,7 @@ Tasks assigned and completed/submitted
 
 **CI Pipeline using GitHub Action:**
 1. **Aim of Task**: Configure a CI pipeline using GitHub Actions.
-   - Define GitHub Actions workflows to build and test Python and Node.js apps on push events.
+   - Define GitHub Actions workflows to build and test application.
 
 **Monitoring with Prometheus and Grafana:**
 1. **Aim of Task**: Set up monitoring using Prometheus and Grafana.
