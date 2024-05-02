@@ -108,7 +108,8 @@ List of AWS cloud tasks covering IAM, VPC, EC2, S3, IAM roles, ALB, ASG, Route 5
 ▶️9. **Certificate Manager**:
    - Request and manage SSL/TLS certificates using AWS Certificate Manager (ACM).
    - Associate SSL certificates with ALB or CloudFront distributions for secure HTTPS communication.
-   
+
+▶️10. **AWS Microservices**:
 
 
 
