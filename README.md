@@ -100,16 +100,8 @@ List of AWS cloud tasks covering IAM, VPC, EC2, S3, IAM roles, ALB, ASG, Route 5
    - Configure scaling policies based on metrics like CPU utilization, network traffic, or custom CloudWatch metrics.
    - Integrate ASG with ALB for dynamic scaling and load distribution.
 
-▶️8. **Route 53**:
-   - Manage DNS records and domain names using Route 53.
-   - Configure public and private hosted zones for routing traffic to AWS resources.
 
-
-▶️9. **Certificate Manager**:
-   - Request and manage SSL/TLS certificates using AWS Certificate Manager (ACM).
-   - Associate SSL certificates with ALB or CloudFront distributions for secure HTTPS communication.
-
-▶️10. **AWS Microservices**:
+▶️ **AWS Microservices**
 
 
 
