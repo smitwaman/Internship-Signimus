@@ -6,18 +6,18 @@ Tasks assigned and completed/submitted.
 
 ## 1. DevOps 
 
-▶️[**Java App Build:**](https://github.com/smitwaman/web-calculator.git)
+▶️ [**Java App Build:**](https://github.com/smitwaman/rectangle-area-calculator.git)
 
 1. **Aim of Task**: Build a Java application.
    - Develop a Java-based application for performing basic arithmetic operations.
 
-▶️**Python App Build:**
-
+▶️. [**Python App Build:**](
+https://github.com/smitwaman/simple-calculator.git)
 2. **Aim of Task**: Build a Python application.
    - Create a Python-based app for rectangle area calculator.
 
-▶️**Node.js App Build:**
-
+▶️  [**Node.js App Build:**](
+https://github.com/smitwaman/web-calculator.git)
 3. **Aim of Task**: Build a Node.js application.
    - Develop a Node.js-based web server for calculator.
 
