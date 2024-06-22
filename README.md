@@ -6,7 +6,7 @@ Tasks assigned and completed/submitted.
 
 ## 1. DevOps 
 
-▶️![**Java App Build:**](https://github.com/smitwaman/web-calculator.git)
+▶️[**Java App Build:**](https://github.com/smitwaman/web-calculator.git)
 
 1. **Aim of Task**: Build a Java application.
    - Develop a Java-based application for performing basic arithmetic operations.
