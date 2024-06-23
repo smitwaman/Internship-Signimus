@@ -72,8 +72,7 @@ https://github.com/smitwaman/prom-graf-node-expo.git)
    - Install and configure Prometheus for metrics collection and Grafana for visualization in the Kubernetes cluster.
 
 
-[AWS Cloud Project]
-(https://github.com/smitwaman/aws-cloud-appserver-demo.git)
+##[AWS Cloud Project](https://github.com/smitwaman/aws-cloud-appserver-demo.git)
 
 List of AWS cloud tasks covering IAM, VPC, EC2, S3, IAM roles, ALB, ASG, Route 53, Certificate Manager:
 
