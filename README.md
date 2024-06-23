@@ -35,8 +35,7 @@ https://github.com/smitwaman/Wobot-FastAPI-minikube.git)
 5. **Aim of Task**: Deploy an application using Kubernetes.
    - Deploy the Dockerized application to a Kubernetes cluster.
 
-▶️. [**Infrastructure using Terraform:**](
-https://github.com/smitwaman/aws-terraform.git.)
+▶️. [**Infrastructure using Terraform:**](https://github.com/smitwaman/terraform-two-tier.git)
 
 6. **Aim of Task**: Provision infrastructure using Terraform.
    - Use Terraform to create a Kubernetes cluster on a AWS cloud provider.
