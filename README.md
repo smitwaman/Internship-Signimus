@@ -13,57 +13,68 @@ Tasks assigned and completed/submitted.
 
 ▶️. [**Python App Build:**](
 https://github.com/smitwaman/simple-calculator.git)
+
 2. **Aim of Task**: Build a Python application.
    - Create a Python-based app for rectangle area calculator.
 
 ▶️  [**Node.js App Build:**](
 https://github.com/smitwaman/web-calculator.git)
+
 3. **Aim of Task**: Build a Node.js application.
    - Develop a Node.js-based web server for calculator.
 
 ▶️. [**Dockerization:**](
 https://github.com/smitwaman/snake-game-python.git)
+
 4. **Aim of Task**: Dockerize an application.
    - Containerize the Java calculator application using Docker.
 
 ▶️. [**Deployment of Application using Kubernetes:**](
 https://github.com/smitwaman/Wobot-FastAPI-minikube.git)
+
 5. **Aim of Task**: Deploy an application using Kubernetes.
    - Deploy the Dockerized application to a Kubernetes cluster.
 
 ▶️. [**Infrastructure using Terraform:**](
 https://github.com/smitwaman/aws-terraform.git.)
+
 6. **Aim of Task**: Provision infrastructure using Terraform.
    - Use Terraform to create a Kubernetes cluster on a AWS cloud provider.
 
 ▶️ [**Deployment Applications using Ansible:**](
 https://github.com/smitwaman/Configuration-Management-Ansible.git)
+
 7. **Aim of Task**: Automate application deployment using Ansible.
    - Write Ansible playbooks to deploy the applications on server.
 
 ▶️. [**CI Pipeline for Git Maven SonarQube Docker:**](
 https://github.com/smitwaman/hello-world.git)
+
 8. **Aim of Task**: Set up a CI pipeline for Java applications.
    - Configure a CI pipeline using Git, Maven, SonarQube for code quality checks, and Docker for containerization.
 
 ▶️. [**CD Pipeline using ArgoCD and Kubernetes:**](
 https://github.com/smitwaman/cd-pipeline-.git)
+
 9. **Aim of Task**: Implement a CD pipeline using ArgoCD.
    - Set up a continuous delivery pipeline with ArgoCD for automated deployments to Kubernetes.
 
 ▶️. [**CI Pipeline using GitHub Action:**](
 https://github.com/smitwaman/githubactions-CI-pipeline.git)
+
 10. **Aim of Task**: Configure a CI pipeline using GitHub Actions.
    - Define GitHub Actions workflows to build and test application.
 
 ▶️. [**Monitoring with Prometheus and Grafana:**](
 https://github.com/smitwaman/prom-graf-node-expo.git)
+
 11. **Aim of Task**: Set up monitoring using Prometheus and Grafana.
    - Install and configure Prometheus for metrics collection and Grafana for visualization in the Kubernetes cluster.
 
 
-[##AWS Cloud Project]
+##[AWS Cloud Project]
 (https://github.com/smitwaman/aws-cloud-appserver-demo.git)
+
 List of AWS cloud tasks covering IAM, VPC, EC2, S3, IAM roles, ALB, ASG, Route 53, Certificate Manager:
 
 ▶️1. **IAM (Identity and Access Management)**:
